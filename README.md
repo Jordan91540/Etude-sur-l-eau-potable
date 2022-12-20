@@ -1,4 +1,4 @@
-# Etude-sur-l-eau-potable
+# Étude sur l'eau potable
 ## Réalisation d'une étude sur l'eau potable avec le logiciel Tableau
 
 *Projet réalisé dans le cadre de ma formation Openclassrooms*  

@@ -1,6 +1,7 @@
 # Etude-sur-l-eau-potable
-Réalisation d'une étude sur l'eau potable avec le logiciel Tableau
+## Réalisation d'une étude sur l'eau potable avec le logiciel Tableau
 
+*Projet réalisé dans le cadre de ma formation Openclassrooms*  
 ### Mise en situation
 Vous êtes consultant Data Analyst en mission dans l'ONG DWFA (Drinking Water For All). Vous êtes missionné pour réaliser un dashboard présentant une vue globale de l'accès à l'eau potable dans le monde, permettant d'identifier les pays qui rencontrent des difficultés d'accès à l'eau potable. À l'aide du logiciel Tableau, vous devez créer une histoire Tableau composé de trois vues (mondiale, continentale et par pays).
 

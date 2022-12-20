@@ -12,7 +12,7 @@ Population.csv
 RegionCountry.csv
 
 ### Étapes
-* Préparation des données
+* Préparation des données avec Tableau Prep
 * Création de trois vues (mondiale, continentale et par pays)
 * Création d'une histoire Tableau
 

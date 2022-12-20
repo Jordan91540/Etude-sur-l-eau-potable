@@ -16,6 +16,7 @@ RegionCountry.csv
 * Création de trois vues (mondiale, continentale et par pays)
 * Création d'une histoire Tableau
 
+lien de l'histoire publiée sur Tableau Public: [Histoire](https://public.tableau.com/app/profile/leclerc5811/viz/tudedaccsleaupotable_16648096624230/Histoire1)
 ### Compétences
 * Analyser un besoin client pour formuler des questions analytiques
 * Créer un tableau de bord répondant à des questions analytiques
